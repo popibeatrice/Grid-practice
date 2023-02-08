@@ -1,2 +1,2 @@
 # Grid-practice
-My first project using grid ( avery simple one)
+My first project using grid (a very simple one)
